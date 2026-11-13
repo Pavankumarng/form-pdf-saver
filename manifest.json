@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Google Form PDF Saver",
+  "name": "Form PDF Saver",
   "version": "1.0.0",
   "description": "Adds a 'Save answers as PDF' button to Google Forms so respondents can download their answers locally — no data ever leaves the browser.",
 
